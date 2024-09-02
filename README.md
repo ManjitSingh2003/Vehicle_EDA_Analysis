@@ -15,8 +15,8 @@ This repository contains the work from a personal project focused on performing 
      - **Feature Engineering**: Creation and modification of features to enhance the analysis.
      - **Conclusions and Recommendations**: Key insights drawn from the analysis, along with suggestions for improving vehicle operations.
 
-2. **vehicle_dataset.csv**:
-   - The dataset used in this project, which contains various parameters related to vehicle performance, health, and usage. This CSV file serves as the raw data source for the analysis conducted in the notebook.
+2. **vehicle_dataset.xlsx**:
+   - The dataset used in this project, which contains various parameters related to vehicle performance, health, and usage. This Excel file serves as the raw data source for the analysis conducted in the notebook.
 
 3. **Project_Summary_Report.pdf**:
    - A concise summary report of the project, highlighting the most important findings, visualizations, and recommendations. This document is intended to provide a quick overview of the project's outcomes without needing to go through the entire notebook.
@@ -36,7 +36,7 @@ This repository contains the work from a personal project focused on performing 
    git clone https://github.com/ManjitSingh2003/Vehicle_EDA_Analysis.git
    ```
 2. **Dataset**:
-   Ensure you have the `vehicle_dataset.csv` file in the working directory. This file contains the raw data used for analysis.
+   Ensure you have the `vehicle_dataset.xlsx` file in the working directory. This file contains the raw data used for analysis.
 
 3. **Open the Jupyter Notebook**: 
    Navigate to the `Vehicle_Dataset_EDA_Project.ipynb` file and execute the cells in order to reproduce the analysis. Ensure that the required Python libraries are installed.
