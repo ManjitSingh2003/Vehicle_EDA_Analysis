@@ -33,7 +33,7 @@ This repository contains the work from a personal project focused on performing 
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/ManjitSingh2003/vehicle-dataset-eda.git
+   git clone https://github.com/ManjitSingh2003/Vehicle_EDA_Analysis.git
    ```
 2. **Dataset**:
    Ensure you have the `vehicle_dataset.csv` file in the working directory. This file contains the raw data used for analysis.
